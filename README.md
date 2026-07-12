@@ -2,7 +2,7 @@
 
 ## Data Analyst | Power BI Developer | SQL Enthusiast
 
-I am a **Data Analyst** with **2.5 years of experience** in transforming raw data into meaningful insights, automated dashboards, and business-driven solutions.
+I am a **Data Analyst** with **3 years of experience** in transforming raw data into meaningful insights, automated dashboards, and business-driven solutions.
 I specialize in **SQL, Python, Power BI, Excel, and ETL pipelines** to optimize reporting and improve decision-making.
 
 ---
